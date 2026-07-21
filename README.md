@@ -218,5 +218,4 @@ This project demonstrates how **Microsoft Excel** can be used as a powerful Busi
 
 If you found this project helpful, feel free to ⭐ **Star** the repository and connect with me!
 
-💼 **LinkedIn:** *Add your profile here*  
-💻 **GitHub:** *Add your profile here*
+💼 **LinkedIn:** www.linkedin.com/in/vishwas-gautam-a9b0101b2
