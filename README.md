@@ -9,6 +9,10 @@ An interactive **Sales Analysis Dashboard** built in **Microsoft Excel** to anal
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-blue?style=for-the-badge)
 ![Project](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
 
+---
+
+# ↓ Dashboard Link ↓
+   [Store Data Google Sheets Dashboard](https://1drv.ms/x/c/daa1fc291e977781/IQAqK2CKEKByQ6WVDcDTKqPwAdPQ9YddH_n5RIbJ7vn6aRo?e=9VDvee)
 </p>
 
 ---
